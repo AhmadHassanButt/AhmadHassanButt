@@ -7,7 +7,7 @@ I specialize in designing clean architectures, performant APIs, and end-to-end s
 
 ### 🧠 Core Stack
 💻 **Backend:** NestJS · Node.js · TypeScript · PostgreSQL · MongoDB · Redis  
-🧩 **Frontend:** ReactJs  · NextJs · React Native 
+🧩 **Frontend:** ReactJs  · NextJs · React Native     
 ⚙️ **DevOps:** Docker · AWS · GitHub Actions  
 🧪 **Testing:** Jest · Cypress · Artillery · Supertest  
 🧩 **Tools & Technologies I enjoy:** Git · Postman · Swagger · Sentry · Miro · Linear · Redash · Full-Story
