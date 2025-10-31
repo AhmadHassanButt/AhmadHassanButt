@@ -17,7 +17,8 @@ I specialize in designing clean architectures, performant APIs, and end-to-end s
 - Building robust and scalable backend systems  
 - Streamlining development through automation and CI/CD pipelines  
 - Ensuring reliability, performance, and smooth delivery from code to production
-- Leveraging **AI** for efficiency — but keeping the **human logic sharp** to stay in control of the craft 
+- Leveraging **AI** for efficiency — but keeping the **human logic sharp** to stay in control of the craft
+
 🧠 Also, trying not to `console.log` in production (again).
 
 ---
