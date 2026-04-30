@@ -1,6 +1,6 @@
 ## 👋 Hi Folks, I'm Ahmad Hassan
 
-**Full-Stack Engineer** with 4+ years of experience building scalable and maintainable web & mobile applications.  
+**Full-Stack Engineer** with 5+ years of experience building scalable and maintainable web & mobile applications.  
 I specialize in designing clean architectures, performant APIs, and end-to-end systems — with a growing focus on AI-assisted development and automation.
 
 ---
